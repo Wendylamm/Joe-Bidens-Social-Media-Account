@@ -1,0 +1,132 @@
+.pictures {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 400px;
+}
+
+.menu {
+    padding: 5px;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    margin: 10px;
+    padding: 8px;
+    border: 3px silver solid;
+    font-family: 'Cuprum', sans-serif;
+}
+
+.blue {
+    background-color: honeydew;
+}
+
+.green {
+    background-color: lemonchiffon;
+}
+
+.quotes {
+    border: 3px papayawhip inset;
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Baloo Bhaina 2', cursive;
+
+}
+
+.leftcolumn {
+    border: 3px black solid;
+    float: left;
+    background-color: steelblue;
+}
+
+.friends {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Trirong', serif;
+    font-size: 15px;
+
+}
+
+.list {
+    border: 3px black double;
+    background-color: ghostwhite;
+}
+
+.portrait {
+    display: flex;
+    justify-content: space-around;
+    background-color: gainsboro;
+
+}
+
+.portraits {
+    height: 100px;
+    width: 100px;
+    border: 3px black double;
+}
+
+.suggestions {
+    border: 3px black double;
+    background-color: gainsboro;
+}
+
+.suggested {
+    display: flex;
+    justify-content: center;
+    border: 3px lightsteelblue groove;
+    font-size: 19px;
+    background-color: lightskyblue;
+    font-family: 'Megrim', cursive;
+}
+
+.secondcolumn {
+    border: 3px black double;
+    display: block;
+    justify-content: center;
+    float: left;
+    background-color: seashell;
+    padding: 6px;
+    font-family: 'Sintony', sans-serif;
+    font-size: 13px;
+}
+
+.flag {
+    height: 150px;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lily Script One', cursive;
+    font-size: 50px;
+
+}
+
+body {
+    background-color:
+        oldlace;
+}
+
+.icecream {
+    width: 200px;
+    height: 200px;
+    border: 5px double ivory;
+    display: block;
+    margin: 60px;
+}
+
+.thirdcolumn {
+    border: 5px double lavender;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    background-color: peachpuff;
+    font-family: 'Neucha', cursive;
+}
